@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m \
-  /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+  /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m \
+  /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/main.m \
-  /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/AppDelegate.h
+  /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/main.m \
+  /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/AppDelegate.h

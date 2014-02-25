@@ -2,23 +2,14 @@ TEmotional Tweets
 v6
 r1
 cCheck dependencies
-cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sh
-cProcessPCH /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Model/Post.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Menu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets normal i386
-cCompileXIB /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListCellView.xib
-cCompileXIB /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.xib
-cCopyStringsFile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/en.lproj/InfoPlist.strings Emotional\ Tweets/en.lproj/InfoPlist.strings
-cCompileXIB /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Menu/MenuViewController.xib
-cCompileAssetCatalog /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Images.xcassets
-cProcessInfoPlistFile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Info.plist /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Emotional\ Tweets-Info.plist
-cGenerateDSYMFile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app.dSYM /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets
-cPhaseScriptExecution Copy\ Pods\ Resources /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-3714526962DC4B98BFF954A8.sh
-cTouch /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sh
+cProcessPCH /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Model/Post.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Menu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets normal i386
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
 c00000000528191A60000000000000176
@@ -35,825 +26,269 @@ c0000000052731AEE00000000000001A0
 t1383275246
 s416
 
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
-c0000000052731AF00000000000090960
-t1383275248
-s592224
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-c0000000052731AF100000000005838D0
-t1383275249
-s5781712
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c0000000052731AF200000000005B82A0
-t1383275250
-s5997216
-
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 c0000000052731AF20000000000445870
 t1383275250
 s4479088
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-c0000000052731AF20000000000355050
-t1383275250
-s3493968
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-c0000000052731AF300000000002F6810
-t1383275251
-s3106832
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-c0000000052731AF2000000000004B000
-t1383275250
-s307200
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 c0000000052731AF4000000000088C680
 t1383275252
 s8963712
 
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-c0000000052731AF700000000001BA530
-t1383275255
-s1811760
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-c0000000052731AF70000000000037620
-t1383275255
-s226848
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c0000000052731AF800000000004848F0
-t1383275256
-s4737264
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
-c0000000052731AF900000000001290B0
-t1383275257
-s1216688
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Social.framework/Social
-c0000000052731AFA0000000000206A70
-t1383275258
-s2124400
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
-c0000000052731AFB00000000001081B0
-t1383275259
-s1081776
-
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
 c0000000052731AFD0000000001DB9910
 t1383275261
 s31168784
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-c0000000052731B2100000000002B9F20
-t1383275297
-s2858784
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
-c0000000052731B2A0000000000002338
-t1383275306
-s9016
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-c0000000052731B2B000000000008D300
-t1383275307
-s578304
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-c0000000052731B2B000000000038ACB0
-t1383275307
-s3714224
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-c000000005273031000000000000141F0
-t1383269136
-s82416
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-c0000000052731B2B0000000000013500
-t1383275307
-s79104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-c0000000052731B2B0000000000033BA0
-t1383275307
-s211872
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-c0000000052731B2B000000000001CFB0
-t1383275307
-s118704
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-c0000000052731B2B000000000001B2B0
-t1383275307
-s111280
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-c0000000052731B2B00000000000632B0
-t1383275307
-s406192
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-c0000000052731B2B0000000000008880
-t1383275307
-s34944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-c0000000052731B2B0000000000015080
-t1383275307
-s86144
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-c0000000052731B2B00000000000230E0
-t1383275307
-s143584
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-c0000000052731B2B000000000000E380
-t1383275307
-s58240
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-c0000000052731B2B0000000000087200
-t1383275307
-s553472
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-c0000000052731B2B00000000000171A0
-t1383275307
-s94624
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
-c0000000052731B2B0000000000039C10
-t1383275307
-s236560
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-c0000000052731B2B000000000000B0B0
-t1383275307
-s45232
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-c0000000052731B2B0000000000167FE0
-t1383275307
-s1474528
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-c0000000052731B2B00000000000106A0
-t1383275307
-s67232
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-c0000000052731B2B000000000001CE40
-t1383275307
-s118336
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-c0000000052731B2B0000000000071040
-t1383275307
-s462912
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-c0000000052731B2B0000000000067A10
-t1383275307
-s424464
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-c0000000052731B2B000000000001BAD0
-t1383275307
-s113360
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-c0000000052731B2B0000000000088BA0
-t1383275307
-s560032
 
 N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
 c0000000052731B940000000000000AC9
 t1383275412
 s2761
 
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-c0000000052731B940000000000005004
-t1383275412
-s20484
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/AppDelegate.h
-c000000005309D5300000000000000115
-t1393153328
-s277
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/AppDelegate.m
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/AppDelegate.m
 c00000000530B20FB00000000000002CE
 t1393238267
 s718
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Emotional Tweets-Info.plist
-c000000005309D530000000000000048D
-t1393153328
-s1165
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Emotional Tweets-Prefix.pch
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Emotional Tweets-Prefix.pch
 c000000005309D5300000000000000158
 t1393153328
 s344
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Images.xcassets
-c00000000530A79530000000000000088
-t1393195347
-s136
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.h
-c00000000530B1D4500000000000000F4
-t1393237317
-s244
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.m
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Menu/MenuViewController.m
 c00000000530BF1100000000000000866
 t1393291536
 s2150
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.xib
-c00000000530B277A000000000000152A
-t1393239930
-s5418
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Model/Post.h
-c00000000530B55FA0000000000000272
-t1393251834
-s626
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Model/Post.m
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Model/Post.m
 c00000000530C00F60000000000001B3B
 t1393295606
 s6971
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListCellView.xib
-c00000000530C00F8000000000000137C
-t1393295608
-s4988
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.h
-c00000000530AFDCD0000000000000118
-t1393229261
-s280
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.m
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Tweet List/TweetListViewController.m
 c00000000530C000400000000000008F8
 t1393295364
 s2296
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.xib
-c00000000530B31A80000000000000684
-t1393242536
-s1668
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/en.lproj/InfoPlist.strings
-c000000005309D530000000000000002D
-t1393153328
-s45
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/main.m
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/main.m
 c000000005309D5300000000000000151
 t1393153328
 s337
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Pods/build/Debug-iphonesimulator/libPods.a
-c00000000530BF4690000000000154E80
-t1393292393
-s1396352
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/build/Debug-iphoneos/libPods.a
+c00000000000000000000000000000000
+t2
+s0
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app
-t1393295610
-s374
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional Tweets.app/Emotional Tweets
+t2
+s0
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app.dSYM
-t1393295610
-s102
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/AppDelegate.o
+t1393298442
+s65508
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Emotional Tweets
-t1393295608
-s611892
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/Emotional Tweets.LinkFileList
+c00000000530C0C09000000000000033E
+t1393298441
+s830
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Info.plist
-t1393292395
-s1006
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/MenuViewController.o
+t1393298442
+s66504
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/MenuViewController.nib
-t1393292395
-s4208
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/Post.o
+t1393298442
+s62796
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/PkgInfo
-t1393292395
-s8
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/TweetListViewController.o
+t1393298442
+s61188
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/TweetListCellView.nib
-t1393295610
-s4610
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/TweetListViewController.nib
-t1393292393
-s1207
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/en.lproj/InfoPlist.strings
-t1393292393
-s42
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/AppDelegate.o
-t1393292393
-s65512
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/Emotional Tweets.LinkFileList
-c00000000530BF4690000000000000343
-t1393292393
-s835
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/MenuViewController.o
-t1393292393
-s66508
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/Post.o
-t1393295608
-s62800
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/TweetListViewController.o
-t1393295365
-s61192
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/main.o
-t1393292393
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/main.o
+t1393298442
 s3724
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Script-3714526962DC4B98BFF954A8.sh
-c00000000530BF469000000000000002F
-t1393292393
-s47
-
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Script-6AD993188B164BF3A257B6B8.sh
-c00000000530BF4690000000000000103
-t1393292393
+N/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Script-6AD993188B164BF3A257B6B8.sh
+c00000000530C0C090000000000000103
+t1393298441
 s259
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/assetcatalog_dependencies.txt
-t1393292394
-s435
+N/var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional Tweets-Prefix.pch.pch
+t1393298442
+s114980
 
-N/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/assetcatalog_generated_info.plist
-t1393292394
-s525
-
-N/usr/lib/libSystem.B.dylib
-c00000000527302F6000000000000E6D0
-t1383269110
-s59088
-
-N/usr/lib/system/libcache.dylib
-c00000000527303100000000000012A00
-t1383269136
-s76288
-
-N/usr/lib/system/libcommonCrypto.dylib
-c00000000527302E8000000000002E320
-t1383269096
-s189216
-
-N/usr/lib/system/libcompiler_rt.dylib
-c00000000527302F60000000000021860
-t1383269110
-s137312
-
-N/usr/lib/system/libcopyfile.dylib
-c000000005273030F000000000001B620
-t1383269135
-s112160
-
-N/usr/lib/system/libcorecrypto.dylib
-c000000005273030F00000000000BD920
-t1383269135
-s776480
-
-N/usr/lib/system/libdyld.dylib
-c000000005273031000000000000141F0
-t1383269136
-s82416
-
-N/usr/lib/system/libkeymgr.dylib
-c0000000052730310000000000000A120
-t1383269136
-s41248
-
-N/usr/lib/system/liblaunch.dylib
-c0000000052730310000000000001D550
-t1383269136
-s120144
-
-N/usr/lib/system/libmacho.dylib
-c000000005273030E0000000000014EE0
-t1383269134
-s85728
-
-N/usr/lib/system/libquarantine.dylib
-c00000000527303120000000000010380
-t1383269138
-s66432
-
-N/usr/lib/system/libremovefile.dylib
-c0000000052730312000000000000C4C0
-t1383269138
-s50368
-
-N/usr/lib/system/libsystem_asl.dylib
-c000000005273031000000000000357A0
-t1383269136
-s219040
-
-N/usr/lib/system/libsystem_blocks.dylib
-c0000000052730310000000000000C070
-t1383269136
-s49264
-
-N/usr/lib/system/libsystem_c.dylib
-c00000000527302F60000000000168C00
-t1383269110
-s1477632
-
-N/usr/lib/system/libsystem_configuration.dylib
-c000000005273030F0000000000010630
-t1383269135
-s67120
-
-N/usr/lib/system/libsystem_dnssd.dylib
-c0000000052730311000000000001DF10
-t1383269137
-s122640
-
-N/usr/lib/system/libsystem_info.dylib
-c00000000527302F60000000000075B00
-t1383269110
-s482048
-
-N/usr/lib/system/libsystem_kernel.dylib
-c00000000527302F6000000000007CC70
-t1383269110
-s511088
-
-N/usr/lib/system/libsystem_m.dylib
-c00000000527302F600000000000766C0
-t1383269110
-s485056
-
-N/usr/lib/system/libsystem_malloc.dylib
-c00000000527303100000000000044DC0
-t1383269136
-s282048
-
-N/usr/lib/system/libsystem_notify.dylib
-c00000000527302F60000000000021FA0
-t1383269110
-s139168
-
-N/usr/lib/system/libsystem_platform.dylib
-c0000000052730310000000000002D900
-t1383269136
-s186624
-
-N/usr/lib/system/libsystem_pthread.dylib
-c0000000052730310000000000001E570
-t1383269136
-s124272
-
-N/usr/lib/system/libsystem_sandbox.dylib
-c0000000052730303000000000000CC70
-t1383269123
-s52336
-
-N/usr/lib/system/libunc.dylib
-c000000005273030A000000000000C3F0
-t1383269130
-s50160
-
-N/usr/lib/system/libunwind.dylib
-c000000005273031000000000000199F0
-t1383269136
-s104944
-
-N/var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional Tweets-Prefix.pch.pch
-t1393292393
-s115000
-
-CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/AppDelegate.m
+CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/AppDelegate.m
 r0
 
-CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Menu/MenuViewController.m
+CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Menu/MenuViewController.m
 r0
 
-CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Model/Post.m
+CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Model/Post.m
 r0
 
-CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.m
+CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.m
 r0
 
-CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/main.m
+CBuild AST from /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/main.m
 r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbe2f5e7d38bcb841^d8635e7d38bcb841^---0#1#1#--18"Check dependencies36"0B9897A3-9F32-4E77-AB93-B78F8A554014-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8253ff8943bcb841^4165008a43bcb841^---0#1#1#--18"Check dependencies36"EC26E93E-A973-4D21-8165-808E94A9A7B9-
 
-CCompileAssetCatalog /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Images.xcassets
-s414985193.909679
-e414985194.862116
-r1
-xCompileAssetCatalog
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Images.xcassets
-o/* com.apple.actool.compilation-results */
-o/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/LaunchImage-700-568h@2x.png
-o/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Assets.car
-o/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/assetcatalog_generated_info.plist
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CompileAssetCatalog build/Debug-iphonesimulator/Emotional\ Tweets.app Emotional\ Tweets/Images.xcassets103"CompileAssetCatalog build/Debug-iphonesimulator/Emotional\ Tweets.app Emotional\ Tweets/Images.xcassets39eee8e92bbcb841^d5b3dcea2bbcb841^-463"/* com.apple.actool.compilation-results *//Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/LaunchImage-700-568h@2x.png/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Assets.car/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@102"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/Images.xcassets/0000000000000000^1273"CompileAssetCatalog build/Debug-iphonesimulator/Emotional\ Tweets.app Emotional\ Tweets/Images.xcassets    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Images.xcassets36"851569AE-8323-4C7B-9764-85B3CFF3A807-
-b23F327A6-1E26-4E11-AD0B-F970D06C1E3B
+CCompileAssetCatalog /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional\ Tweets.app /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Images.xcassets
+r0
 
-CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414985193.694921
-e414985193.775275
+CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414991242.059115
+e414991242.136135
 r1
 xCompileC
 xbuild/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/AppDelegate.o
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/AppDelegate.m
+x/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/AppDelegate.m
 xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/AppDelegate.m
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/AppDelegate.h
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/AppDelegate.m218"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o Emotional\ Tweets/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler09fcb1e92bbcb841^6a88c6e92bbcb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/AppDelegate.m0000000000000000^4320"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o Emotional\ Tweets/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/AppDelegate.m -o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o36"53EE4978-3A2D-402E-B61A-45F8F4B5EF39-
-b23F327A6-1E26-4E11-AD0B-F970D06C1E3B
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/AppDelegate.m
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/AppDelegate.h
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Menu/MenuViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/AppDelegate.m218"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o Emotional\ Tweets/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler26360f8a43bcb841^b8ea228a43bcb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional%20Tweets/AppDelegate.m0000000000000000^4285"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o Emotional\ Tweets/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/AppDelegate.m -o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/AppDelegate.o36"7DB632F4-CD9F-43D4-B2FC-3FE45B1400D3-
+b2EBCCCEF-A3B4-4038-8687-04A24AB78A3C
 
-CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Menu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414985193.694704
-e414985193.785565
+CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Menu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414991242.060216
+e414991242.144240
 r1
 xCompileC
 xbuild/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/MenuViewController.o
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.m
+x/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Menu/MenuViewController.m
 xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.m
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.h
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.h
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Model/Post.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.m237"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o Emotional\ Tweets/Menu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler172bb2e92bbcb841^fc1ac9e92bbcb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/Menu/MenuViewController.m0000000000000000^4372"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o Emotional\ Tweets/Menu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Menu/MenuViewController.m -o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o36"BB91C703-5F48-470B-89B6-62B35F6CEA12-
-b23F327A6-1E26-4E11-AD0B-F970D06C1E3B
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Menu/MenuViewController.m
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Menu/MenuViewController.h
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Tweet List/TweetListViewController.h
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Model/Post.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Menu/MenuViewController.m237"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o Emotional\ Tweets/Menu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e820f8a43bcb841^4eed248a43bcb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional%20Tweets/Menu/MenuViewController.m0000000000000000^4337"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o Emotional\ Tweets/Menu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Menu/MenuViewController.m -o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/MenuViewController.o36"54B4B7F4-33BD-4106-A311-4CDC4C95FB17-
+b2EBCCCEF-A3B4-4038-8687-04A24AB78A3C
 
-CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Model/Post.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414988408.319517
-e414988408.426638
+CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Model/Post.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414991242.058563
+e414991242.155496
 r1
 xCompileC
 xbuild/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/Post.o
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Model/Post.m
+x/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Model/Post.m
 xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Model/Post.m
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Model/Post.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Model/Post.m210"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o Emotional\ Tweets/Model/Post.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdae3517838bcb841^b03b6d7838bcb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/Model/Post.m0000000000000000^4290"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o Emotional\ Tweets/Model/Post.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Model/Post.m -o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o36"C13FDD28-0122-4130-82B4-555D9B437E1A-
-bE4A52D16-A5A6-4AB2-AAA6-0BA408F8BCFC
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Model/Post.m
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Model/Post.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Model/Post.m210"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o Emotional\ Tweets/Model/Post.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd7150f8a43bcb841^f9d6278a43bcb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional%20Tweets/Model/Post.m0000000000000000^4255"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o Emotional\ Tweets/Model/Post.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Model/Post.m -o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Post.o36"FFADB362-7102-44AD-8571-AF86C3DF9856-
+b2EBCCCEF-A3B4-4038-8687-04A24AB78A3C
 
-CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414988165.294255
-e414988165.364617
+CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414991242.058811
+e414991242.139970
 r1
 xCompileC
 xbuild/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/TweetListViewController.o
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.m
+x/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Tweet List/TweetListViewController.m
 xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.m
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.h
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Model/Post.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.m254"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o Emotional\ Tweets/Tweet\ List/TweetListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera3914b8537bcb841^2c615d8537bcb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/Tweet%20List/TweetListViewController.m0000000000000000^4416"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o Emotional\ Tweets/Tweet\ List/TweetListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.m -o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o36"2128823C-42A3-4DDF-9763-41F288101AC9-
-bE384194A-AB40-4A5F-97C0-8FFDB77A062C
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Tweet List/TweetListViewController.m
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Tweet List/TweetListViewController.h
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Model/Post.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Tweet List/TweetListViewController.m254"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o Emotional\ Tweets/Tweet\ List/TweetListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9e260f8a43bcb841^99d5238a43bcb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional%20Tweets/Tweet%20List/TweetListViewController.m0000000000000000^4381"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o Emotional\ Tweets/Tweet\ List/TweetListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.m -o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/TweetListViewController.o36"639C89A7-D564-4FF2-9780-8A3D2E3B9495-
+b2EBCCCEF-A3B4-4038-8687-04A24AB78A3C
 
-CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414985193.775500
-e414985193.810220
+CCompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414991242.136404
+e414991242.176597
 r1
 xCompileC
 xbuild/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/main.o
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/main.m
+x/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/main.m
 xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/main.m
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/AppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/main.m204"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o Emotional\ Tweets/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercde5c6e92bbcb841^27c1cfe92bbcb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/main.m0000000000000000^4278"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o Emotional\ Tweets/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/main.m -o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o36"41A4CC6F-D57C-443E-95CE-66DFCAC7613C-
-b23F327A6-1E26-4E11-AD0B-F970D06C1E3B
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/main.m
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/main.m204"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o Emotional\ Tweets/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercd04238a43bcb841^3b372d8a43bcb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional%20Tweets/main.m0000000000000000^4243"CompileC build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o Emotional\ Tweets/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -include /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch -MMD -MT dependencies -MF /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.dia -c /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/main.m -o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/main.o36"FAB8E68C-55F9-4E82-A788-6DCB4A46056D-
+b2EBCCCEF-A3B4-4038-8687-04A24AB78A3C
 
-CCompileXIB /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Menu/MenuViewController.xib
-s414985193.908603
-e414985195.129765
-r1
-xCompileXIB
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.xib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compiling /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Menu/MenuViewController.xib56"CompileXIB Emotional\ Tweets/Menu/MenuViewController.xibb1a8e8e92bbcb841^003921eb2bbcb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/Menu/MenuViewController.xib0000000000000000^861"CompileXIB Emotional\ Tweets/Menu/MenuViewController.xib    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/MenuViewController.nib /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Menu/MenuViewController.xib36"2D39A578-2EA4-4FD1-9F9C-D17D8E5C822A-
-b23F327A6-1E26-4E11-AD0B-F970D06C1E3B
+CCompileXIB /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Menu/MenuViewController.xib
+r0
 
-CCompileXIB /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListCellView.xib
-s414988408.501879
-e414988410.727260
-r1
-xCompileXIB
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListCellView.xib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compiling /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListCellView.xib62"CompileXIB Emotional\ Tweets/Tweet\ List/TweetListCellView.xibd788807838bcb841^3c2eba7a38bcb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/Tweet%20List/TweetListCellView.xib0000000000000000^872"CompileXIB Emotional\ Tweets/Tweet\ List/TweetListCellView.xib    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/TweetListCellView.nib /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListCellView.xib36"A00ACA69-4E6F-4CA2-B006-C79BBCE4807F-
-bE4A52D16-A5A6-4AB2-AAA6-0BA408F8BCFC
+CCompileXIB /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Tweet\ List/TweetListCellView.xib
+r0
 
-CCompileXIB /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.xib
-s414985193.906436
-e414985193.948168
-r1
-xCompileXIB
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.xib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compiling /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Tweet List/TweetListViewController.xib68"CompileXIB Emotional\ Tweets/Tweet\ List/TweetListViewController.xib8523e8e92bbcb841^62bcf2e92bbcb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/Tweet%20List/TweetListViewController.xib0000000000000000^890"CompileXIB Emotional\ Tweets/Tweet\ List/TweetListViewController.xib    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/TweetListViewController.nib /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.xib36"D2205709-5699-44BE-BAE9-F84726292110-
-b23F327A6-1E26-4E11-AD0B-F970D06C1E3B
+CCompileXIB /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Tweet\ List/TweetListViewController.xib
+r0
 
-CCopyStringsFile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/en.lproj/InfoPlist.strings Emotional\ Tweets/en.lproj/InfoPlist.strings
-s414985193.906651
-e414985193.909556
-r1
-xCopyStringsFile
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/en.lproj/InfoPlist.strings
-xEmotional Tweets/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy Emotional Tweets/en.lproj/InfoPlist.strings137"CopyStringsFile build/Debug-iphonesimulator/Emotional\ Tweets.app/en.lproj/InfoPlist.strings Emotional\ Tweets/en.lproj/InfoPlist.strings622fe8e92bbcb841^3412e9e92bbcb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/en.lproj/InfoPlist.strings0000000000000000^656"CopyStringsFile build/Debug-iphonesimulator/Emotional\ Tweets.app/en.lproj/InfoPlist.strings Emotional\ Tweets/en.lproj/InfoPlist.strings    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/en.lproj -- Emotional\ Tweets/en.lproj/InfoPlist.strings36"BDB361EC-0039-4433-81DD-49B587DF65D1-
-b23F327A6-1E26-4E11-AD0B-F970D06C1E3B
+CCopyStringsFile /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/en.lproj/InfoPlist.strings Emotional\ Tweets/en.lproj/InfoPlist.strings
+r0
 
-CGenerateDSYMFile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app.dSYM /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets
-s414988410.728039
-e414988410.776855
-r1
-xGenerateDSYMFile
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app.dSYM
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Emotional Tweets
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Generate /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app.dSYM139"GenerateDSYMFile build/Debug-iphonesimulator/Emotional\ Tweets.app.dSYM build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweetsa06cba7a38bcb841^74eac67a38bcb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/build/Debug-iphonesimulator/Emotional%20Tweets.app.dSYM/0000000000000000^746"GenerateDSYMFile build/Debug-iphonesimulator/Emotional\ Tweets.app.dSYM build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets -o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app.dSYM36"2F99FEC7-514A-4017-AA70-179B5A7E2C01-
-bE4A52D16-A5A6-4AB2-AAA6-0BA408F8BCFC
+CGenerateDSYMFile /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional\ Tweets.app.dSYM /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets
+r0
 
-CLd /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets normal i386
-s414988408.428942
-e414988408.498476
-r1
+CLd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets normal i386
+s414991242.177584
+e414991242.187838
+r0
 xLd
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Emotional Tweets
+x/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional Tweets.app/Emotional Tweets
 xnormal
 xi386
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/Emotional Tweets.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/Post.o
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/TweetListViewController.o
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/AppDelegate.o
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/MenuViewController.o
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/main.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Pods/build/Debug-iphonesimulator/libPods.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Social.framework/Social
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libdyld.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Emotional Tweets82"Ld build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets normal i3867ee16d7838bcb841^1b9d7f7838bcb841^---0#0#1#--1758"Ld build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets normal i386    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator -L/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/build/Debug-iphonesimulator -F/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator -filelist /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Emotional\ Tweets.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Emotional\ Tweets_dependency_info.dat -o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets36"876F9CD7-13F1-48EA-B1E5-5BFFEE13D5A6-
-bE4A52D16-A5A6-4AB2-AAA6-0BA408F8BCFC
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Objects-normal/i386/Emotional Tweets.LinkFileList
+old: warning: directory not found for option '-L/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Pods/build/Debug-iphonesimulator'
+old: library not found for -lPods
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Link /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional Tweets.app/Emotional Tweets82"Ld build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets normal i3864c882d8a43bcb841^1616308a43bcb841^-252"ld: warning: directory not found for option '-L/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Pods/build/Debug-iphonesimulator'ld: library not found for -lPodsclang: error: linker command failed with exit code 1 (use -v to see invocation)3(21%IDEActivityLogMessage2@125"Directory not found for option '-L/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Pods/build/Debug-iphonesimulator'-414991242#0#139#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@28"Library not found for -lPods-414991242#139#33#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-414991242#172#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1745"Ld build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets normal i386    cd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator -L/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/build/Debug-iphonesimulator -F/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator -filelist /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Emotional\ Tweets.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Objects-normal/i386/Emotional\ Tweets_dependency_info.dat -o /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Emotional\ Tweets36"A94B7C95-6C52-457C-A10C-765F407090F5-
+b2EBCCCEF-A3B4-4038-8687-04A24AB78A3C
 
-CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sh
-s414988413.369022
-e414988413.385685
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sh
+s414991242.002900
+e414991242.017556
 r1
 xPhaseScriptExecution
 xCheck Pods Manifest.lock
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Script-6AD993188B164BF3A257B6B8.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'158"PhaseScriptExecution Check\ Pods\ Manifest.lock build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sh41d35e7d38bcb841^f9bc627d38bcb841^---0#0#1#--415"PhaseScriptExecution Check\ Pods\ Manifest.lock build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sh    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    /bin/sh -c \"/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sh\"36"9174894B-8D0A-4ECC-AC1E-88F93CC67A3E-
-b182D1EE6-A837-4DAB-BC87-C7A5936FF67D
+x/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Script-6AD993188B164BF3A257B6B8.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'158"PhaseScriptExecution Check\ Pods\ Manifest.lock build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sha417018a43bcb841^5e81048a43bcb841^---0#0#1#--410"PhaseScriptExecution Check\ Pods\ Manifest.lock build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sh    cd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets    /bin/sh -c \"/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-6AD993188B164BF3A257B6B8.sh\"36"01424123-B70A-4789-9B11-FDC99B48FC71-
+b2EBCCCEF-A3B4-4038-8687-04A24AB78A3C
 
-CPhaseScriptExecution Copy\ Pods\ Resources /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-3714526962DC4B98BFF954A8.sh
-s414988413.389739
-e414988415.831425
-r1
-xPhaseScriptExecution
-xCopy Pods Resources
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Emotional Tweets.build/Debug-iphonesimulator/Emotional Tweets.build/Script-3714526962DC4B98BFF954A8.sh
-obuilding file list ... done
-o
-osent 29 bytes  received 20 bytes  98.00 bytes/sec
-ototal size is 0  speedup is 0.00
-o/* com.apple.actool.compilation-results */
-o/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Assets.car
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'153"PhaseScriptExecution Copy\ Pods\ Resources build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-3714526962DC4B98BFF954A8.shcd1e647d38bcb841^dcd8d47f38bcb841^-274"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-414988413#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-414988413#29#50#-0#-----2@33"total size is 0  speedup is 0.00-414988413#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-414988415#112#43#-0#-----2@118"/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Assets.car-414988415#155#118#-0#-----0#0#1#--410"PhaseScriptExecution Copy\ Pods\ Resources build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-3714526962DC4B98BFF954A8.sh    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    /bin/sh -c \"/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-3714526962DC4B98BFF954A8.sh\"36"694B8655-735D-4ADB-9140-CCD1C9866C42-
-b182D1EE6-A837-4DAB-BC87-C7A5936FF67D
-
-CProcessInfoPlistFile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Info.plist /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Emotional\ Tweets-Info.plist
-s414985195.130467
-e414985195.158624
-r1
-xProcessInfoPlistFile
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/build/Debug-iphonesimulator/Emotional Tweets.app/Info.plist
-x/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Emotional Tweets-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Process /Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Emotional Tweets-Info.plist128"ProcessInfoPlistFile build/Debug-iphonesimulator/Emotional\ Tweets.app/Info.plist Emotional\ Tweets/Emotional\ Tweets-Info.plist717421eb2bbcb841^765029eb2bbcb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/Emotional%20Tweets-Info.plist0000000000000000^1032"ProcessInfoPlistFile build/Debug-iphonesimulator/Emotional\ Tweets.app/Info.plist Emotional\ Tweets/Emotional\ Tweets-Info.plist    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Emotional\ Tweets-Info.plist -genpkginfo /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/assetcatalog_generated_info.plist -o /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Info.plist36"C0867267-C37C-45E4-A2BC-313E4B161E35-
-b23F327A6-1E26-4E11-AD0B-F970D06C1E3B
-
-CProcessPCH /Users/billylei/Library/Developer/Xcode/DerivedData/Emotional_Tweets-dxapofgcaykegcdzvjiswdymhpuu/Index/PrecompiledHeaders/Emotional\ Tweets-Prefix-bolnlxcvdbibgnefdludydzjjsse_ast/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Script-3714526962DC4B98BFF954A8.sh
 r0
 
-CProcessPCH /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414985193.652369
-e414985193.691927
+CProcessInfoPlistFile /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional\ Tweets.app/Info.plist /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Emotional\ Tweets-Info.plist
+r0
+
+CProcessPCH /Users/billylei/Library/Developer/Xcode/DerivedData/Emotional_Tweets-gmvnpgcbmjmzrlbgusneobxwmbqr/Index/PrecompiledHeaders/Emotional\ Tweets-Prefix-egnesrtaacmvmnetzxnxbyjewhcp_ast/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414991242.018320
+e414991242.057934
 r1
 xProcessPCH
-x/var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional Tweets-Prefix.pch.pch
+x/var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional Tweets-Prefix.pch.pch
 xEmotional Tweets/Emotional Tweets-Prefix.pch
 xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets/Emotional Tweets/Emotional Tweets-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile Emotional Tweets/Emotional Tweets-Prefix.pch330"ProcessPCH /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3318a7e92bbcb841^9622b1e92bbcb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/billylei/Dropbox/Work/Work_iPhone/Emotional%20Tweets/Emotional%20Tweets/Emotional%20Tweets-Prefix.pch0000000000000000^4348"ProcessPCH /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/billylei/Dropbox/Work/Work_iPhone/Emotional Tweets"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Pods/Headers/AFNetworking --serialize-diagnostics /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch.d -c /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/Emotional\ Tweets/Emotional\ Tweets-Prefix.pch -o /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dnxwetdsifqrmwecwplzxojglcsw/Emotional\ Tweets-Prefix.pch.pch36"0D3D0EDD-B20D-42D2-A75B-E0727DE9579A-
-b23F327A6-1E26-4E11-AD0B-F970D06C1E3B
+d/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional Tweets/Emotional Tweets-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile Emotional Tweets/Emotional Tweets-Prefix.pch330"ProcessPCH /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd6c6048a43bcb841^cbd60e8a43bcb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional%20Tweets/Emotional%20Tweets-Prefix.pch0000000000000000^4319"ProcessPCH /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch.pch Emotional\ Tweets/Emotional\ Tweets-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/billylei/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-generated-files.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-own-target-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-all-target-headers.hmap -iquote /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/Emotional\ Tweets-project-headers.hmap -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/include -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources/i386 -I/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Emotional\ Tweets.build/Debug-iphonesimulator/Emotional\ Tweets.build/DerivedSources -F/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers -isystem/Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Pods/Headers/AFNetworking --serialize-diagnostics /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch.d -c /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/Emotional\ Tweets/Emotional\ Tweets-Prefix.pch -o /var/folders/km/0k9lyxvn4tn8tswyy2396tmw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Emotional\ Tweets-Prefix-dzktztscitjgtudujtcoquwwwpue/Emotional\ Tweets-Prefix.pch.pch36"CD08CC20-F561-4411-B3CB-07E23ACCBBD3-
+b2EBCCCEF-A3B4-4038-8687-04A24AB78A3C
 
-CTouch /Users/billylei/Dropbox/Work/Work_iPhone/Emotional\ Tweets/build/Debug-iphonesimulator/Emotional\ Tweets.app
+CTouch /Users/billylei/Dropbox/Work/Work_iPhone/EmotionalTweets/build/Debug-iphonesimulator/Emotional\ Tweets.app
 r0
 

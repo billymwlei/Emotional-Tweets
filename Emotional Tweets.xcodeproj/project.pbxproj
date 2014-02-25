@@ -25,7 +25,7 @@
 		28B384F218BA169300407AE5 /* TweetListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28B384F018BA169300407AE5 /* TweetListViewController.xib */; };
 		28E99C6918BAE28B0083F3AE /* Post.m in Sources */ = {isa = PBXBuildFile; fileRef = 28E99C6818BAE28B0083F3AE /* Post.m */; };
 		28E99C6F18BB680A0083F3AE /* TweetListCellView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28E99C6E18BB680A0083F3AE /* TweetListCellView.xib */; };
-		7F9FC1B518BC22320072D0B7 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F9FC1B418BC22320072D0B7 /* libPods.a */; };
+		7F9FC1B718BC428D0072D0B7 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F9FC1B618BC428D0072D0B7 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,11 +70,12 @@
 		7F9FC1A518BC1BDE0072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
 		7F9FC1A718BC1EB80072D0B7 /* libPods-AFNetworking.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-AFNetworking.a"; path = "Pods/build/Debug-iphoneos/libPods-AFNetworking.a"; sourceTree = "<group>"; };
 		7F9FC1A918BC1ED10072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
-		7F9FC1AB18BC1F8C0072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = file; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
-		7F9FC1AD18BC1FC80072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = file; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
-		7F9FC1AF18BC20AF0072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = file; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
-		7F9FC1B118BC214A0072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = file; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
+		7F9FC1AB18BC1F8C0072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
+		7F9FC1AD18BC1FC80072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
+		7F9FC1AF18BC20AF0072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
+		7F9FC1B118BC214A0072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
 		7F9FC1B418BC22320072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Debug-iphonesimulator/libPods.a"; sourceTree = "<group>"; };
+		7F9FC1B618BC428D0072D0B7 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = file; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
 		B006FEE99D664C3EBE522C08 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -86,7 +87,7 @@
 				28B384BB18BA0CB000407AE5 /* CoreGraphics.framework in Frameworks */,
 				28B384BD18BA0CB000407AE5 /* UIKit.framework in Frameworks */,
 				28B384B918BA0CB000407AE5 /* Foundation.framework in Frameworks */,
-				7F9FC1B518BC22320072D0B7 /* libPods.a in Frameworks */,
+				7F9FC1B718BC428D0072D0B7 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -126,6 +127,7 @@
 		28B384B718BA0CB000407AE5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				7F9FC1B618BC428D0072D0B7 /* libPods.a */,
 				7F9FC1B418BC22320072D0B7 /* libPods.a */,
 				7F9FC1B118BC214A0072D0B7 /* libPods.a */,
 				7F9FC1AF18BC20AF0072D0B7 /* libPods.a */,
